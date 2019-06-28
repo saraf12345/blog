@@ -5,6 +5,9 @@ log owners will be able to login and publish new posts, update or delete existin
 Visitors will be able to add comments to any blog post
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 .env configuration
+
 php artisan migrate –seed (important)
+
 php artisan serve
